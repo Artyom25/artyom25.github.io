@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Test post"
 date: 2017-03-23 11:50
 categories: jekyll update
